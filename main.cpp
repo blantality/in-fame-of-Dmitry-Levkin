@@ -2,6 +2,6 @@
 
 int main() {
 
-  std::cout << "hw hw hw!\n"
+  std::cout << "hw hw hw!\n";
 
 }
