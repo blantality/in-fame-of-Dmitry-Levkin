@@ -2,6 +2,7 @@
 
 int main() {
 
-  std::cout << "hwhwhw topit\n";
+  std::cout << "hwhwhw topit";
+  std::cout << "\n";
 
 }
