@@ -1,10 +1,6 @@
 #include <iostream>
 
 int main() {
-
-  std::cout << "hwhwhw low-it\n";
-  std::cout << "TOPTOPTOPIT";
-  std::cout << "\n";
-  
-  
+  std::cout << "hwhwhw low-it" << std::endl;
+  std::cout << "TOPTOPTOPIT" << std::endl;
 }
